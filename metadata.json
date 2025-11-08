@@ -1,0 +1,5 @@
+{
+  "name": "Impostrico",
+  "description": "A social deduction game for 3 or more players. In each round, one player is the 'Spy' who doesn't know the secret word. Other players know the word. Each player takes a turn saying a word related to the secret word. The Spy's goal is to blend in and discover the word, while others try to vote them out.",
+  "requestFramePermissions": []
+}
